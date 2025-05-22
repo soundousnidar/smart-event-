@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SmartEvent.API.Controllers.EventsController",
+    "Method": "GetAllEvents",
+    "RelativePath": "api/Events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartEvent.API.Controllers.RegistrationsController",
+    "Method": "Register",
+    "RelativePath": "api/Registrations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registration",
+        "Type": "SmartEvent.Core.Models.Registration",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

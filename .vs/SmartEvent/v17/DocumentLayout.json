@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\SmartEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\SmartEvent\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\data\\registrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\data\\registrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|solutionrelative:smartevent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|solutionrelative:smartevent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\services\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\services\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|solutionrelative:smartevent.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.registrationservice\\smartevent.registrationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1347DFDB-D0D6-4C1B-9000-527E18A8A74A}|SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj|solutionrelative:smartevent.registrationservice\\smartevent.registrationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.api\\dtos\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|solutionrelative:smartevent.api\\dtos\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|c:\\users\\hp\\desktop\\smartevent\\smartevent.api\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEA658D-09C8-4541-A529-E948E344A44C}|SmartEvent.API\\SmartEvent.API.csproj|solutionrelative:smartevent.api\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-21T09:26:23.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Program.cs",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Program.cs",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:56:43.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\Services\\RegistrationService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Services\\RegistrationService.cs",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\Services\\RegistrationService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:43:32.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\appsettings.json",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T03:33:20.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Data\\RegistrationDbContext.cs",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\Data\\RegistrationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Data\\RegistrationDbContext.cs",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\Data\\RegistrationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:13:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:48:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartEvent.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\appsettings.json",
+              "RelativeToolTip": "SmartEvent.API\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T04:27:23.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartEvent.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\Program.cs",
+              "RelativeToolTip": "SmartEvent.API\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwIUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:37:00.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Services\\IRegistrationService.cs",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\Services\\IRegistrationService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Services\\IRegistrationService.cs",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\Services\\IRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:16:13.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\Models\\Registration.cs",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\Models\\Registration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:53:26.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\DTOs\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\DTOs\\RegistrationDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\DTOs\\RegistrationDto.cs",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\DTOs\\RegistrationDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:16:37.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "SmartEvent.API\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "SmartEvent.API\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:36:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmartEvent.RegistrationService.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj",
+              "RelativeDocumentMoniker": "SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj",
+              "RelativeToolTip": "SmartEvent.RegistrationService\\SmartEvent.RegistrationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T22:56:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\DTOs\\EventCreateDto.cs",
+              "RelativeDocumentMoniker": "SmartEvent.API\\DTOs\\EventCreateDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\DTOs\\EventCreateDto.cs",
+              "RelativeToolTip": "SmartEvent.API\\DTOs\\EventCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:36:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\DTOs\\EventUpdateDto.cs",
+              "RelativeDocumentMoniker": "SmartEvent.API\\DTOs\\EventUpdateDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\SmartEvent\\SmartEvent.API\\DTOs\\EventUpdateDto.cs",
+              "RelativeToolTip": "SmartEvent.API\\DTOs\\EventUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:50:21.133Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

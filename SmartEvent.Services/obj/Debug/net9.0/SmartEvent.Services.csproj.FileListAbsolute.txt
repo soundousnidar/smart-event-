@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\bin\Debug\net9.0\SmartEvent.Services.deps.json
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\bin\Debug\net9.0\SmartEvent.Services.dll
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\bin\Debug\net9.0\SmartEvent.Services.pdb
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\bin\Debug\net9.0\SmartEvent.Core.dll
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\bin\Debug\net9.0\SmartEvent.Data.dll
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\bin\Debug\net9.0\SmartEvent.Data.pdb
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\bin\Debug\net9.0\SmartEvent.Core.pdb
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEvent.Services.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEvent.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEvent.Services.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEvent.Services.AssemblyInfo.cs
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEvent.Services.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEve.E40FCBE4.Up2Date
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEvent.Services.dll
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\refint\SmartEvent.Services.dll
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\SmartEvent.Services.pdb
+C:\Users\hp\Desktop\SmartEvent\SmartEvent.Services\obj\Debug\net9.0\ref\SmartEvent.Services.dll
